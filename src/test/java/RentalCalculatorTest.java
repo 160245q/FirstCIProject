@@ -8,7 +8,7 @@ public class RentalCalculatorTest {
 	@Test
 	//TC1 : First timer, Honda Fit, 1 Day, expect $61.75
 	public void testTC1() {
-		assertEquals("TC1 failed", RentalCalculator.carRental("Honda", 1, true, false), 61.75, 0.00);
+		assertEquals("TC1 failed", RentalCalculator.carRental("Honda", 1, true, false), 62.75, 0.00);
 	}
 	
 	@Test
