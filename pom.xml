@@ -23,7 +23,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>RentalCalculator</mainClass>
+							<mainClass>RentalAnalysis</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
